@@ -1,0 +1,19 @@
+return {
+    name = "Core",
+
+    components = {
+        ["Fighting Arts"] = "Echoes of Death 3 Fighting Arts",
+        ["Vermin"] = "Echoes of Death 3 Vermin",
+    },
+
+    guidNames = { ["69b3e9"] = "Echoes of Death 3 Archive" },
+
+    archiveEntries = {
+        archive = "Echoes of Death 3 Archive",
+        entries = {
+            { "Echoes of Death 3 Fighting Arts", "Fighting Arts" },
+            { "Echoes of Death 3 Vermin", "Vermin" },
+        },
+    },
+
+}
